@@ -1,0 +1,100 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.box{
+    border: 2px solid black;
+    width: 20%;
+    height: 300px;
+    margin:30px 30px;
+    border-radius: 10px;
+}
+.img{
+    background-color: blue;
+    width: 90%;
+    height: 150px;
+    margin: 10px;
+    border-radius: 10px;
+    background-image: url("https://i.pinimg.com/originals/72/0d/34/720d34be7aba040ab90c4ecc538fc8b5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center;
+
+}
+.text p{
+    padding: 10px;
+
+
+}
+.text h3{
+    text-align: center;
+
+}
+.card a{
+    text-decoration: none;
+    color: white;
+    
+    
+    
+    
+}
+.card{
+    text-align: center;
+    background-color: rgb(9, 127, 224);
+    width: 80%;
+    height: 30px;
+    margin: auto;
+    border-radius: 10px;
+    padding-top: 5px;
+
+}
+.menu{
+    display: flex;
+    gap: 20px;
+}
+.img1{
+    background-color: blue;
+    width: 90%;
+    height: 150px;
+    margin: 10px;
+    border-radius: 10px;
+    background-image: url("https://wallpaperaccess.com/full/9288515.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center;
+
+
+}
+.img2{
+    background-color: blue;
+    width: 90%;
+    height: 150px;
+    margin: 10px;
+    border-radius: 10px;
+    background-image: url("https://luxurypulse.com/img/pictures/6870d3785bd4e2a4ca.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center;
+
+
+}
+.img3{
+    background-color: blue;
+    width: 90%;
+    height: 150px;
+    margin: 10px;
+    border-radius: 10px;
+    background-image: url("https://exclusivecarregistry.com/images/cars/preview/thumb_20688.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center;
+
+
+}
